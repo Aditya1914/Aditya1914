@@ -23,7 +23,7 @@ Here's my [**resume**](/resume.pdf) for a quick reference of my previous work.
 ## 🛠 Technologies & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript‑ES6‑F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://camo.githubusercontent.com/b50d4b5449ac9bed0fc02238425fd56db93011d5019563595023ff0bb1a02162/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python‑3.10‑3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/React‑17‑61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js‑16‑339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
