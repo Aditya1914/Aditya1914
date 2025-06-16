@@ -36,14 +36,14 @@ Here's my [**resume**](/resume.pdf) for a quick reference of my previous work.
 
 <!-- ════════════════════════════════════════════════════ -->
 <!--                   🚀 Top Projects                    -->
-## 🚀 Top Projects
+<!--## 🚀 Top Projects
 
 1. [Staygreen](https://github.com/yourusername/staygreen) – A greenhouse automation dashboard.  
 2. [review-code](https://github.com/yourusername/review-code) – AI‑powered pull‑request reviewer.  
 3. [YouTube Transcriber‑Summarizer](https://github.com/yourusername/youtube-transcriber-summarizer) – Transcribe & summarize videos in one click.
 
 ---
-
+-->
 <!-- ════════════════════════════════════════════════════ -->
 <!--                  📫 How to Reach Me                  -->
 ## 📫 How to Reach Me
