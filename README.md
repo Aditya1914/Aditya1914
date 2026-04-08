@@ -5,7 +5,7 @@
 I am **R Aditya Subramanyam**, a Software Developer working at [Pyvision Technologies].  
 Do check out my projects 😁.
 
-Here's my [**resume**](https://drive.google.com/file/d/126OFiEhFxBUPUefpqqiR0SHKeBW5gsnm/view?usp=drive_link) for a quick reference of my previous work.
+Here's my [**resume**](https://drive.google.com/file/d/1Y3nkJArIeacgfSJqa6ykH5rgOmKUmhLW/view?usp=sharing) for a quick reference of my previous work.
 
 ---
 
