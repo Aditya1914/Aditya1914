@@ -14,7 +14,7 @@ Here's my [**resume**](https://drive.google.com/file/d/1Y3nkJArIeacgfSJqa6ykH5rg
 ## ✨ About Me
 
 - 💻 I specialize in full‑stack development and have experience with a variety of languages and frameworks.  
-- 📚 I’m currently working as a Freelance Software developer too, training AI-models with the help of prompt engineering.  
+- 📚 I’m currently working as a Senior Software developer as well as AI Enginner (Data Annotation) having work experience in frontend, backend and devops environment, and training AI models via RLHF, RL, SFT, Eval Training as well as worked on OSworld benchmarking, Terminal bench and SWE bench as well.
 
 ---
 
