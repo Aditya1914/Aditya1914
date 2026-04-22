@@ -44,4 +44,4 @@ Here's my [portfolio]() to know more about me.
 - 🔗 LinkedIn: [R Aditya Subramanyam](https://www.linkedin.com/in/r-aditya-subramanyam/)
 - 🐦 Twitter: [@builds_Aditya](https://x.com/builds_Aditya)
 - 📧 Email: aditya75871@gmail.com
-- 🌐 Portfolio: [portfolio-aditya-subramanyam.vercel.app](https://portfolio-aditya-subramanyam.vercel.app/)
+- 🌐 Portfolio: [portfolio-aditya-subramanyam.vercel.app]()
