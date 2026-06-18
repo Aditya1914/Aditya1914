@@ -4,7 +4,7 @@ I am **R Aditya Subramanyam**, a Senior Software Developer at Pyvision Technolog
 Do check out my projects 😄.
 
 Here's my [resume](https://drive.google.com/file/d/1W3KTuYalsrZ9sJbZXWbHAQAjhc79C3MI/view?usp=sharing) for a quick reference of my previous work.
-Here's my [portfolio](portfolio-aditya-subramanyam.vercel.app) to know more about me.
+Here's my [portfolio](https://portfolio-aditya-subramanyam.vercel.app/) to know more about me.
 
 ## ✨ About Me
 
